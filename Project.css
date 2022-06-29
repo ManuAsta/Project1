@@ -11,7 +11,7 @@ h1{
 #subbox{
     float: left;
     padding: 2px;
-    background-image: url('../MiniP/lightsub.webp');
+    background-image: url('Img/lightsub.webp');
     font-family: 'Courier New', Courier, monospace;
     position: fixed;
     top: 400px;
@@ -20,7 +20,7 @@ a{
     text-decoration: none;
 }
 #mainimage{
-    background-image:url('../MiniP/political-map-of-world-with-country-flags-F00P9P.jpg');
+    background-image:url('Img/political-map-of-world-with-country-flags-F00P9P.jpg');
     height: 500px;
     width: 90%;
     margin-top: 0px;
