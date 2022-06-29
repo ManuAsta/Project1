@@ -1,0 +1,73 @@
+body{
+    width: 100%;
+    height: auto;
+}
+h1{
+    font-size: 80px;
+}
+#text{
+    text-align: center;
+}
+#subbox{
+    float: left;
+    padding: 2px;
+    background-image: url('../MiniP/lightsub.webp');
+    font-family: 'Courier New', Courier, monospace;
+    position: fixed;
+    top: 400px;
+}
+a{
+    text-decoration: none;
+}
+#mainimage{
+    background-image:url('../MiniP/political-map-of-world-with-country-flags-F00P9P.jpg');
+    height: 500px;
+    width: 90%;
+    margin-top: 0px;
+    background-size: contain;
+    margin: auto;
+    color: white;
+}
+#Skip{
+    width: 50%;
+    margin: auto;
+    padding-top:200px;
+    text-align: center;
+}
+#btn{
+    color: white;
+   background-color: rgba(0, 0, 0, 0.5);
+   font-family:'Courier New', Courier, monospace;
+   font-size: 50px;
+}
+#mainpage{
+    width: 80%;
+    margin: auto;
+}
+.title{
+    padding: 20px;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+.image{
+    height: 450px;
+    width: 70%;
+    margin: auto;
+    background-position: center;
+    border: 2px solid rgb(183, 155, 155);
+    overflow: hidden;
+}
+.Image{
+    width: 100%;
+   height: 100%;
+}
+#footer{
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(104, 104, 234,0.4);
+    width: fit-content;
+    margin: auto;
+    margin-top: 10px;
+}
